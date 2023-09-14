@@ -1,2 +1,7 @@
 This is sample file and we can edit here. 
 Try to pull this or push this file on git.
+<<<<<<< HEAD
+=======
+Adding new line
+one more line
+>>>>>>> sample
